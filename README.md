@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grecco59&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grecco59&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="218" alt="stats graph"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0bTVpcnl6amhsOHZiMWdndHhyOGtvemIzeXZ2cXN3eGpwNGxnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqtvGYCjDNwac/giphy.gif"  />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0bTVpcnl6amhsOHZiMWdndHhyOGtvemIzeXZ2cXN3eGpwNGxnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqtvGYCjDNwac/giphy.gif"  />
 </div>
 
 ###
